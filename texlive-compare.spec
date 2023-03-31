@@ -1,6 +1,6 @@
 Name:		texlive-compare
 Version:	54265
-Release:	1
+Release:	2
 Summary:	Compare two strings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/compare

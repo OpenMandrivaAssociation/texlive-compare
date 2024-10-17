@@ -3,7 +3,7 @@ Version:	54265
 Release:	2
 Summary:	Compare two strings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/compare
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/compare
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/compare.r%{version}.tar.xz
 BuildArch:	noarch
